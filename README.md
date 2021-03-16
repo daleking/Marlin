@@ -1,3 +1,9 @@
+ABOUT:
+------
+
+This is the branch point for the Makerfarm i3v firmware
+'Marlin_RAMPS_EPCOS_i3v.zip' which is the default firmware.
+
 WARNING: 
 --------
 THIS IS RELEASE CANDIDATE 2 FOR MARLIN 1.0.0
